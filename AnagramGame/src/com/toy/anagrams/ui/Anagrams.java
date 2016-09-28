@@ -242,7 +242,7 @@ public class Anagrams extends JFrame {
         setJMenuBar(mainMenu);
 
     }//GEN-END:initComponents
-
+//Afegim codi per a modificar el hash del commit.
     private void aboutMenuItemActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_aboutMenuItemActionPerformed
         new About(this).setVisible(true);
     }//GEN-LAST:event_aboutMenuItemActionPerformed
